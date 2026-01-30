@@ -25,7 +25,7 @@ This project demonstrates how to work with APIs, JSON data, and user input in Py
 - Shows available bikes and empty slots
 - Handles invalid station names gracefully
 
-## 🛠 Requirements & How to Run
+## Requirements & How to Run
 ### Requirements:
 
 - Python 3.x
