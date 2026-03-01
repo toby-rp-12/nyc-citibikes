@@ -1,5 +1,5 @@
 # CS-api-project
-My first API project!
+My first API project.
 
 ## Overview
 
