@@ -25,6 +25,27 @@ This project demonstrates how to work with APIs, JSON data, and user input in Py
 - Shows available bikes and empty slots
 - Handles invalid station names gracefully
 
+## Requirements & How to Run
+2 months ago
+
+Update README.md
+### Requirements:
+- Python 3.x
+- `requests` library
+Install `requests` if needed:
+```
+pip install requests
+```
+### Run the Project
+1. Make sure Python 3 is installed.
+2. Install the `requests` library (if not already installed).
+3. Save the as something like:
+```
+citibike_api.py
+```
+4. Navigate to the folder containing the file.
+5. Run the program using in python.
+
 ## API Used
 
 - **CityBikes API**
